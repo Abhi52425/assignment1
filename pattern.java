@@ -2,10 +2,10 @@ class pattern
 {
 	public static void main(String[] args) 
 	{
-		int a,b;	
-		for(a=1;a<6;a++)
+		int i,j;	
+		for(i=1;i<6;i++)
 		{
-			for(b=0;b<a;b++)
+			for(j=0;j<i;j++)
 			{
 				System.out.print("*");
 			}
